@@ -5,6 +5,6 @@ python BeatmapDownloader.py
 
 
 嫖了osusearch.com和chimu.moe的资源  
-因为osusearch.comAPI的原因，一次只能检索出18个  
+因为osusearch.comAPI的原因，一次只能检索出18张铺面  
 写着玩玩，凑合用吧  
 
