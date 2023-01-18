@@ -1,5 +1,5 @@
 基于python的简单的osu铺面下载器  
-python BeatmapDownloader  
+python BeatmapDownloader.py  
 直接运行即可  
 
 
